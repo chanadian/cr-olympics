@@ -1,6 +1,4 @@
-# cr-olympics 2018
-
-## Code Review Competition
+# 2018 Code Review Olympic Games
 
 ### Rules: 
 1. No performance enhancing drugs
