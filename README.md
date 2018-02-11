@@ -5,8 +5,7 @@
 
 ### Rules: 
 1. No performance enhancing drugs
-2. Each competitor has 10 Comments to respond to
-3. First to respond to all comments WIN 🏆!
+3. The competitor to respond to all comments first, WINS 🏆!
 
 <br><br><br><br><br><br><br><br><br><br>
 
