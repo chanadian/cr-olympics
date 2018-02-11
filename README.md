@@ -6,9 +6,9 @@
 ### Rules: 
 1. No performance enhancing drugs
 2. Each competitor has 10 Comments to respond to
-3. First to respond to all Code Review comments correctly WIN 🏆!
+3. First to respond to all comments WIN 🏆!
 
-
+<br><br><br><br><br><br><br><br><br><br>
 
 
 
