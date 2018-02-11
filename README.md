@@ -3,6 +3,7 @@
 ## Code Review Competition
 
 ### Rules: 
-- No performance enhancing drugs
-- First to respond to all Code Review comments win
+1. No performance enhancing drugs
+2. Each competitor has 10 Comments to respond to
+3. First to respond to all Code Review comments correctly WIN 🏆!
 
