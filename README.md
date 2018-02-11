@@ -1,9 +1,19 @@
 # 2018 Code Review Olympic Games
 
+![olympic rings](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/2014/02/Olympic-logo.png)
+
+
 ### Rules: 
 1. No performance enhancing drugs
 2. Each competitor has 10 Comments to respond to
 3. First to respond to all Code Review comments correctly WIN 🏆!
+
+
+
+
+
+
+
 
 ### Competitors
 
