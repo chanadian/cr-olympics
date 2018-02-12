@@ -22,4 +22,4 @@
 
 ### TEAM BABY SLOTH
 
-![Baby Sloth](https://static.boredpanda.com/blog/wp-content/uploads/2017/02/rescued-baby-sloths-conversation-fb.png)
+![Baby Sloth](https://blog.eat24.com/wp-content/uploads/2017/12/this-baby-sloth-will-inspire-you-to-keep-going-2-29780-1441826159-10_dblbig.jpg)
